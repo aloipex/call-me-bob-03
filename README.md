@@ -1,5 +1,8 @@
 # call-me-bob 🤖 03
 
+> [!NOTE]
+> **Notice:** Due to major unforeseen circumstances and external commitments, the original author is no longer able to actively maintain this project under their personal account. Ownership has been transitioned to keep the project open, accessible, and maintained.
+
 **To-Do List #03** — Bob has a to-do list. You have Python. Let's make a deal.
 
 A cozy, game-like site to practice Python in the browser. Help Bob sort his
@@ -8,9 +11,9 @@ one chore at a time. No timers, no pressure: pick a chore, read Bob's note,
 write your function and hit **Grade me!**. Bob's little robot helper checks
 your code right in your browser and shows a full test trace.
 
-**🌐 Live site:** https://italoalmeida0.github.io/call-me-bob-03/
+**🌐 Live site:** https://aloipex.github.io/call-me-bob-03/
 
-**🧭 Bob's other to-do lists:** ➡️ [call-me-bob 04](https://github.com/italoalmeida0/call-me-bob-04)
+**🧭 Bob's other to-do lists:** ➡️ [call-me-bob 04](https://github.com/aloipex/call-me-bob-04)
 
 ## The chores
 

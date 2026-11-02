@@ -27,11 +27,11 @@ import {
 
 const LS_SOLVED_KEY = "bob03_solved_chores";
 const LS_CODE_PREFIX = "bob03_chore_code_";
-const REPO_URL = "https://github.com/italoalmeida0/call-me-bob-03";
+const REPO_URL = "https://github.com/aloipex/call-me-bob-03";
 const PREV_SITE = null;
 const NEXT_SITE = {
   label: "call-me-bob 04",
-  url: "https://italoalmeida0.github.io/call-me-bob-04/",
+  url: "https://aloipex.github.io/call-me-bob-04/",
 };
 
 // Short-url service — inlined by build.ts from env SHORT_URL_API
